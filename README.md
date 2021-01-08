@@ -1,3 +1,5 @@
+This app was build to experiment with redux and redux thunk.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
